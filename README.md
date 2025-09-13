@@ -8,7 +8,7 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 Third-year Computer Engineering student at **D. J. Sanghvi College of Engineering**  
+- 🎓 Final-year Computer Engineering student at **D. J. Sanghvi College of Engineering**  
 - 🧠 Passionate about **Machine Learning**, **NLP**, **Computer Vision**, and **Web Development**  
 - 💡 Full-stack experience with **Flask**, **React**, **Node.js**, and **MongoDB**  
 - 📈 Kaggle enthusiast  
